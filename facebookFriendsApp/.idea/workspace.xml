@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35650665-3ae6-48ad-9527-d31b38296086" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/BooleanOGSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/drawable/false_content.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/drawable/true_content.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/layout/content_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/layout/friend_activity_row.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/layout/friends_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/layout/logic_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/layout/settings_group.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/BooleanOGSample/src/com/facebook/samples/booleanog/LogicActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/FriendPickerSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/res/layout/pick_friends_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/src/com/facebook/samples/friendpicker/FriendPickerApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/src/com/facebook/samples/friendpicker/FriendPickerSampleActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/FriendPickerSample/src/com/facebook/samples/friendpicker/PickFriendsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/GraphApiSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/GraphApiSample/src/com/facebook/samples/graphapi/GraphApiSampleActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/Hackbook.eml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/Hackbook.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/default.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable-hdpi/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/icon_hack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/login_button.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/login_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/logout.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/logout_button.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/logout_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/me.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/splash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/drawable/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout-land/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout-port/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/connection_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/fields_connections_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/fields_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/fql_query.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/friend_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/friends_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/graph_explorer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/main_list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/permission_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/permissions_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/place_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/places_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/splash.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/token_refresh.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/update_post_response.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/layout/upload_photo_response.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/BaseDialogListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/BaseRequestListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/FQLQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/FieldsConnectionsDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/FriendsGetProfilePics.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/FriendsList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/GraphExplorer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/Hackbook.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/IntentUriHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/LoginButton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/PermissionsDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/Places.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/SessionEvents.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/SessionStore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/SplashActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/TokenRefreshDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/UpdateStatusResultDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/UploadPhotoResultDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Hackbook/src/com/facebook/android/Utility.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/HelloFacebookSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/HelloFacebookSample/src/com/facebook/samples/hellofacebook/HelloFacebookSampleActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/FriendPickerSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/PlacePickerSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/res/layout/pick_place_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/src/com/facebook/samples/placepicker/PickPlaceActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/src/com/facebook/samples/placepicker/PlacePickerApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/PlacePickerSample/src/com/facebook/samples/placepicker/PlacePickerSampleActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/ProfilePictureSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/res/layout/activity_profile_picture_sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/res/layout/fragment_profile_picture_sample.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/src/com/facebook/samples/profilepicture/ProfilePictureSampleActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/ProfilePictureSample/src/com/facebook/samples/profilepicture/ProfilePictureSampleFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/Scrumptious.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable/action_eating.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable/action_location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable/action_people.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable/button_border.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/layout/listitem.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/layout/pickers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/layout/selection.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/layout/splash.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/src/com/facebook/scrumptious/BaseListElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/src/com/facebook/scrumptious/FullListView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/src/com/facebook/scrumptious/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/src/com/facebook/scrumptious/PickerActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/src/com/facebook/scrumptious/ScrumptiousApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/src/com/facebook/scrumptious/SelectionFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/Scrumptious/src/com/facebook/scrumptious/SplashFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/SessionLoginSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/layout/activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/layout/custom_fragment_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/layout/fragment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/layout/login_fragment_activity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/src/com/facebook/samples/sessionlogin/LoginUsingActivityActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/src/com/facebook/samples/sessionlogin/LoginUsingCustomFragmentActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/src/com/facebook/samples/sessionlogin/LoginUsingLoginFragmentActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/src/com/facebook/samples/sessionlogin/SessionLoginFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SessionLoginSample/src/com/facebook/samples/sessionlogin/SessionLoginSampleActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/SwitchUserSample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/ant.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/proguard-project.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/drawable-hdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/drawable-mdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/drawable-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/drawable/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/layout/fragment_profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/layout/list_item_user.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/layout/main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/menu/context_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/menu/options_profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/src/com/facebook/samples/switchuser/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/src/com/facebook/samples/switchuser/ProfileFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/src/com/facebook/samples/switchuser/SettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../facebook-android-sdk/samples/SwitchUserSample/src/com/facebook/samples/switchuser/Slot.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/.classpath" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/.classpath" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/AccessToken.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/AccessToken.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/AccessTokenTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/AccessTokenTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/tests/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/tests/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/AsyncFacebookRunner.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/AsyncFacebookRunner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/AsyncRequestTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/AsyncRequestTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/AuthorizationClient.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/AuthorizationClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/AuthorizationClientTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/AuthorizationClientTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/BatchRequestTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/BatchRequestTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/DialogError.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/DialogError.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/Facebook.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/Facebook.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/FacebookActivityTestCase.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/FacebookActivityTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookAuthorizationException.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookAuthorizationException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookDialogException.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookDialogException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookException.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/FacebookFragment.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/FacebookFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookGraphObjectException.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookGraphObjectException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookRequestError.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/FacebookRequestError.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/FacebookRequestErrorTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/FacebookRequestErrorTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/FbDialog.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/FbDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/internal/FileLruCache.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/internal/FileLruCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/internal/FileLruCacheTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/internal/FileLruCacheTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/FriendPickerFragment.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/FriendPickerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/FriendPickerFragmentTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/FriendPickerFragmentTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphLocation.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphLocation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphMultiResult.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphMultiResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphObject.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/GraphObjectAdapter.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/GraphObjectAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/model/GraphObjectFactoryTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/model/GraphObjectFactoryTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphObjectList.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphObjectList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/GraphObjectPagingLoaderTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/GraphObjectPagingLoaderTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphPlace.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphPlace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphUser.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/GraphUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ImageDownloader.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ImageDownloader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ImageRequest.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ImageRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ImageResponseCache.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ImageResponseCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/ImageResponseCacheTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/ImageResponseCacheTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/InsightsLogger.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/InsightsLogger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/model/JsonUtilTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/model/JsonUtilTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/LoginButton.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/LoginButton.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/LoginButtonTest.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/LoginButtonTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/NativeProtocol.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/NativeProtocol.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/OpenGraphAction.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/OpenGraphAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/PickerFragment.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/PickerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/PlacePickerFragment.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/PlacePickerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ProfilePictureView.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/ProfilePictureView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/PropertyName.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/model/PropertyName.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Request.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Request.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/RequestBatch.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/RequestBatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Response.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Response.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Session.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Session.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/SessionState.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/SessionState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/SessionTestsBase.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/SessionTestsBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/internal/SessionTracker.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/internal/SessionTracker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Settings.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Settings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/SettingsTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/SettingsTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/SharedPreferencesTokenCacheTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/SharedPreferencesTokenCacheTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/SharedPreferencesTokenCachingStrategy.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/SharedPreferencesTokenCachingStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/src/com/facebook/sdk/StatusActivity.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/src/com/facebook/sdk/StatusActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/TestSession.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/TestSession.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/tests/src/com/facebook/android/tests/Tests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/tests/src/com/facebook/android/tests/Tests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/TokenCachingStrategy.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/TokenCachingStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/UiLifecycleHelper.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/UiLifecycleHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/UrlRedirectCache.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/UrlRedirectCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/UserSettingsFragment.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/UserSettingsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/Util.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/Util.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/internal/Utility.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/internal/Utility.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/internal/ValidateTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/internal/ValidateTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/WebDialog.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/WebDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/WorkQueue.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/widget/WorkQueue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/WorkQueueTests.java" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/src/com/facebook/widget/WorkQueueTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/android-sdk.iml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/android-sdk.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/libraries/android_support_v4.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/libraries/android_support_v4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/ant.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/ant.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values/attrs.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/build.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/build.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/build.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/codeStyleSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_button_check.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_button_check.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_friendpickerfragment.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_friendpickerfragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_login_activity_layout.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_login_activity_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_loginbutton_blue.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_loginbutton_blue.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_loginbutton_silver.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_loginbutton_silver.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_checkbox.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_image.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_image.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_picker_item_background.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_picker_item_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_list_row.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_list_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_list_section_header.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_list_section_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_selector.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_selector_background_transition.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_picker_list_selector_background_transition.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_search_box.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_picker_search_box.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_placepickerfragment.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_placepickerfragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_placepickerfragment_list_row.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_placepickerfragment_list_row.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_top_background.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_top_background.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_top_button.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_top_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_usersettingsfragment.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/layout/com_facebook_usersettingsfragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/drawable/com_facebook_usersettingsfragment_background_gradient.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/res/layout/main.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/tests/res/layout/main.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/tests/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/misc.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/modules.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/project.properties" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/project.properties" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/TestApp/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/project.properties" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/tests/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values/strings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values-es/strings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values-es/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values-he/strings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values-he/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values-iw/strings.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values-iw/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values/styles.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/facebook/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../facebook-android-sdk/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../facebook-android-sdk/.idea/vcs.xml" />
+    </list>
+    <ignored path="facebookFriendsApp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/res/values/strings.xml" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376437037573" ignored="false" />
+    <file path="$PROJECT_DIR$/res/layout/main.xml" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376437038250" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376440080538" ignored="false" />
+    <file path="/fragment.java" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376437265625" ignored="false" />
+    <file path="/Dummy.txt" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376744804447" ignored="false" />
+    <file path="$PROJECT_DIR$/../facebook-android-sdk/res/layout/main.xml" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376437464384" ignored="false" />
+    <file path="/FaceBookFriends.java" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376437522033" ignored="false" />
+    <file path="/AuthorizationClient.java" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376438650918" ignored="false" />
+    <file path="/a.dummy" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376438743151" ignored="false" />
+    <file path="/facebook-android-sdk.iml" changelist="35650665-3ae6-48ad-9527-d31b38296086" time="1376744881815" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="facebookFriendsApp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AuthorizationClient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/AuthorizationClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="27" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="R.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/gen/com/facebook/android/R.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="19" selection-start="232" selection-end="232" vertical-scroll-proportion="0.13356766">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacebookConnector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/FacebookConnector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="115" column="66" selection-start="3758" selection-end="3777" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseRequestListener.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/BaseRequestListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="5" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionStore.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/SessionStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionEvents.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/SessionEvents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="23" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="R.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/bin/R.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="106" column="11" selection-start="5570" selection-end="5570" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/gen/com/facebook/android/BuildConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="19" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="R.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/apps/adt-bundle-linux-x86_64-20130717/sdk/platforms/android-17/android.jar!/android/R.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="19" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../facebook-android-sdk" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ourcompany/facebook/FaceBookFriends.java" />
+        <option value="$PROJECT_DIR$/../facebook-android-sdk/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/ourcompany/facebook/util/SessionEvents.java" />
+        <option value="$PROJECT_DIR$/src/com/ourcompany/facebook/util/SessionStore.java" />
+        <option value="$PROJECT_DIR$/src/com/ourcompany/facebook/util/FacebookConnector.java" />
+        <option value="$PROJECT_DIR$/src/com/ourcompany/facebook/util/BaseRequestListener.java" />
+        <option value="$PROJECT_DIR$/../facebook-android-sdk/facebook/gen/com/facebook/android/R.java" />
+        <option value="$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/AuthorizationClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookFriendsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookFriendsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookFriendsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookFriendsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebook-android-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookFriendsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebook-android-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebookFriendsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebook-android-sdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facebook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+  </component>
+  <component name="RunManager" selected="Android Application.facebookFriendsApp">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="facebookFriendsApp" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="facebookFriendsApp" />
+      <option name="ACTIVITY_CLASS" value="com.ourcompany.facebook.FaceBookFriends" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="abc" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.facebookFriendsApp" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35650665-3ae6-48ad-9527-d31b38296086" name="Default" comment="" />
+      <created>1376437028401</created>
+      <updated>1376437028401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1060" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.6703418" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/FaceBookFriends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/android/DialogError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/bin/R.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="62" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="38" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/apps/adt-bundle-linux-x86_64-20130717/sdk/platforms/android-17/android.jar!/android/R.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/SessionStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/SessionEvents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="23" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/FacebookConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="66" selection-start="3758" selection-end="3777" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ourcompany/facebook/util/BaseRequestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="5" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/gen/com/facebook/android/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/bin/R.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="11" selection-start="5570" selection-end="5570" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/src/com/facebook/AuthorizationClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="27" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../facebook-android-sdk/facebook/gen/com/facebook/android/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="19" selection-start="232" selection-end="232" vertical-scroll-proportion="0.13356766">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>facebook-android-sdk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../facebook-android-sdk/facebook-android-sdk.iml" filepath="$PROJECT_DIR$/../facebook-android-sdk/facebook-android-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebookFriendsApp.iml" filepath="$PROJECT_DIR$/facebookFriendsApp.iml" />
+    </modules>
+  </component>
+</project>
+
